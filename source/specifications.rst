@@ -6,3 +6,4 @@ Specifications
 
    specifications/vectormaps
    specifications/matrices
+   specifications/finite_element
