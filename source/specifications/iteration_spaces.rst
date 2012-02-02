@@ -17,7 +17,7 @@ Example problem
 
 Consider the form of the mass matrix:
 
-.. math:: M[i,j] = \int_\Omega \phi_i \phi_j \; \mathrm{d}X
+.. math:: M[i,j] = \int_\Omega \phi_i \phi_j \mathrm{d}X
 
 This defines the value of each entry of the mass matrix. When performing
 integration using Gaussian quadrature, this form becomes:
