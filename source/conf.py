@@ -179,7 +179,7 @@ htmlhelp_basename = 'OP2doc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'OP2.tex', u'OP2 Documentation',
-   u'Florian Rathgeber', 'manual'),
+   u'OP2 Developers', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -212,5 +212,5 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'op2', u'OP2 Documentation',
-     [u'Florian Rathgeber'], 1)
+     [u'OP2 Developers'], 1)
 ]
