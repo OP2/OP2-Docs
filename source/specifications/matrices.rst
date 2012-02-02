@@ -3,6 +3,8 @@
 Matrices
 ========
 
+.. sectionauthor:: David A. Ham <david.ham@imperial.ac.uk>
+
 In an OP2 context, a (sparse) matrix is a linear operator from one set to
 another. In other words, it is a linear function which takes a dataset on
 one set ``A`` and returns the value of a dataset on another set ``B``. Of

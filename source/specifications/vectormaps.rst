@@ -5,6 +5,8 @@
 Vector Maps
 ===========
 
+.. sectionauthor:: Florian Rathgeber <f.rathgeber10@imperial.ac.uk>
+
 We propose an extension to the OP2 API to allow vector valued maps (i.e. 
 maps that associate a single entity in the *source* set to several 
 entities in the *target* set as they already exist in OP2) to be passed 

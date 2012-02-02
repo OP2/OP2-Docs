@@ -3,6 +3,8 @@
 Distributing local assembly between threads in OP2
 ==================================================
 
+.. sectionauthor:: Graham Markall <grm08@doc.ic.ac.uk>
+
 Introduction
 ------------
 

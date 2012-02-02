@@ -3,6 +3,8 @@
 Finite Element Computations
 ===========================
 
+.. sectionauthor:: David A. Ham <david.ham@imperial.ac.uk>
+
 The finite element method primarily consists of integrals over cells and, in
 some cases, facets [#]_. In this regard, it looks like a prime contender for
 OP2. The complication arises because the degrees of freedom in a finite
