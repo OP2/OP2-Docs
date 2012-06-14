@@ -1,9 +1,7 @@
-This is a repository of specifications for the `OP2 project`_. Eventually it
-is supposed to contain all of OP2's documentation. Meanwhile you can find most
-of the documentation on the `project page`_ and the `runtime library
+This is a repository of specifications for the `OP2 project`_ but the main documentation is on the `project page`_ and in the `runtime library
 repository`_.
 
-To build it you need Sphinx_ (tested with version 1.0.7 and above) and GNU make.
+To build this you need Sphinx_ (tested with version 1.0.7 and above) and GNU make.
 
 Run
 
@@ -14,5 +12,5 @@ Run
 
 .. _project page:
 .. _OP2 project: http://people.maths.ox.ac.uk/gilesm/op2
-.. _runtime library repository: https://github.com/OP2/OP2-Common
+.. _runtime library repository: https://github.com/OP2/OP2-Common/doc
 .. _Sphinx: http://sphinx.pocoo.org
